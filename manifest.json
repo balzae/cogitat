@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "balzae.cogitat",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "balzae.cogitat",
+  "start_url": "https://balzae.github.io/cogitat",
+  "theme_color": "#ffffff",
+  "lang": "en"
+}
